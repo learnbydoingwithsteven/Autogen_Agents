@@ -16,7 +16,7 @@ ollama run llama2
 2. Install dependencies:
 
 ```bash
-pip install pyautogen
+pip install ag2
 ```
 
 3. Execute the example:

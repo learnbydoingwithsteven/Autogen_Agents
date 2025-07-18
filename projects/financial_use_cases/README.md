@@ -14,7 +14,7 @@ This repository contains example use cases for [Autogen](https://github.com/micr
 2. Install the required package:
 
    ```bash
-   pip install pyautogen
+   pip install ag2
    ```
 
 ## Available Use Cases
